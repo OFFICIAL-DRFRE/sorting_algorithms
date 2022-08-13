@@ -1,12 +1,12 @@
-#C Sorting and Algorithms
+# C Sorting and Algorithms
 
-###General
+### General
 At least four different sorting algorithms
 What is the Big O notation, and how to evaluate the time complexity of an algorithm
 How to select the best sorting algorithm for a given input
 What is a stable sorting algorithm
 ---
-###Requirements
+### Requirements
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 All your files should end with a new line
@@ -24,5 +24,5 @@ A list/array does not need to be sorted if its size is less than 2.
 <img src="https://www.gauravvjn.com/wp-content/uploads/2019/02/r_660997_XfjvN-850x550.png" />
 ---
 
-###Prepared by
+### Prepared by
 * **Frehiwot Berhe*** - [OFFCIAL-DRFRE](https://github.com/OFFCIAL-DRFRE)
