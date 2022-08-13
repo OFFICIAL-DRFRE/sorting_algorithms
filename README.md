@@ -22,7 +22,6 @@ All your header files should be include guarded
 A list/array does not need to be sorted if its size is less than 2.
 ---
 <img src="https://www.gauravvjn.com/wp-content/uploads/2019/02/r_660997_XfjvN-850x550.png" />
----
 
 ### Prepared by
-* **Frehiwot Berhe*** - [OFFCIAL-DRFRE](https://github.com/OFFCIAL-DRFRE)
+* **Frehiwot Berhe** - [OFFCIAL-DRFRE](https://github.com/OFFCIAL-DRFRE)
